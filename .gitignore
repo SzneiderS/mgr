@@ -1,0 +1,5 @@
+.nets/
+.idea/
+.debris/
+.autoencoder/
+venv/
